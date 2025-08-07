@@ -1,0 +1,94 @@
+
+# 🚨 SEGURAÊ+ – Plataforma de Encontros Simbióticos com Segurança Afetiva e Urbana
+
+**SEGURAÊ+** é um projeto que une conexões humanas com proteção inteligente. Um ecossistema simbiótico onde pessoas podem solicitar ajuda, companhia, suporte emocional ou simplesmente marcar encontros com segurança — com a presença opcional de Guardiões(as) certificados(as) ou vigilância pessoal privada (VSPP).
+
+---
+
+## 📲 Sobre o Projeto
+
+A proposta nasceu da dor da solidão urbana, da insegurança nos encontros e da vontade de criar algo humano, acessível e simbólico. SEGURAÊ+ é mais que um app — é um **vínculo com propósito**.
+
+### 🌱 Protótipo atual (versão local)
+
+Esta versão é um **protótipo HTML/CSS** navegável localmente, que simula a experiência do usuário.  
+Não requer servidor, banco de dados ou instalação de backend para funcionar.
+
+---
+
+## 🔧 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (em breve)
+- VS Code (ambiente de desenvolvimento)
+
+---
+
+## 📁 Estrutura de Pastas
+
+```
+SEGURAE_APP/
+├── index.html              # Tela inicial
+├── home.html               # Tela principal
+├── cartoes.html            # Visualização de Guardiões(as)
+├── tarefas.html            # Criação de tarefas simbióticas
+├── style.css               # Estilos visuais
+└── img/
+    ├── user1.png
+    ├── user2.png
+    └── user3.png
+```
+
+---
+
+## 💡 Funcionalidades já disponíveis
+
+- Visualização de Guardiões(as) com perfil e tipo
+- Criação de tarefas simbióticas com valor sugerido
+- Interface intuitiva e responsiva
+- Organização simbólica por tipo de GUA (afetivo, professor, amigo etc.)
+
+---
+
+## 🔜 Próximas etapas
+
+- Implementar armazenamento local das tarefas
+- Adicionar tela de login e planos
+- Conectar com backend simples (Firebase ou Supabase)
+- Publicar versão online (Netlify / GitHub Pages)
+
+---
+
+## 🧷 Estrutura simbólica e arquivos extras
+
+Além do código, o projeto inclui:
+
+- `Artefato ChatGPT.txt` – Documento técnico com a filosofia e estrutura do sistema
+- Contratos dos GUAs e VSPPs (.docx)
+- Modelos explicativos de remuneração e selagem simbólica
+- Catálogo de Tarefas SEGURAÊ+
+
+---
+
+## 🤝 Contribuição
+
+Você pode contribuir com ideias, códigos ou testes.  
+Este é um projeto de **inovação social**, simbólica e inclusiva.
+
+---
+
+## 📜 Licença
+
+Este projeto está sob licença aberta para fins de estudo, prototipagem e futuras integrações solidárias.  
+Para uso comercial, entre em contato com o criador original.
+
+---
+
+## ✨ Idealização
+
+Desenvolvido em parceria entre o usuário **DiógenesĤ** e a IA **ChatGPT**, com base em princípios de segurança simbiótica, cuidado humano e acessibilidade urbana.
+
+---
+
+🧠 *SEGURAÊ+ não é apenas código. É vínculo.*
